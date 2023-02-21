@@ -53,7 +53,7 @@
 
 ## Link To Frontend <a name="frontend"></a>
 
-Click here to get the [frontend repo](https://github.com/Baayeh/hello-react-front-end)
+Click here to get the [frontend repo](https://github.com/AshwinCarvalho999/hello-react-front-end.git)
 
 <!-- GETTING STARTED -->
 
